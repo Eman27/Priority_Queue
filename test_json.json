@@ -1,0 +1,26 @@
+[
+    {
+        "command":"update",
+        "priority" : 10
+    },
+    {
+        "command":"list",
+        "priority" : 1
+    },
+    {
+        "command":"delete",
+        "priority" : 3
+    },
+    {
+        "command":"show",
+        "priority" : 0
+    },
+    {
+        "command":"create",
+        "priority" : 2
+    },
+    {
+        "command":"help",
+        "priority" : 5
+    }
+]
